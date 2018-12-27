@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62150" started-at="2018-12-27T18:56:36Z" finished-at="2018-12-27T18:57:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62150" started-at="2018-12-27T18:56:36Z" finished-at="2018-12-27T18:57:38Z">
+      <class name="com.instarem.base.App">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.instarem.base.App@c8afef]" name="setup" is-config="true" duration-ms="2840" started-at="2018-12-27T18:56:36Z" finished-at="2018-12-27T18:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllImages()[pri:1, instance:com.instarem.base.App@c8afef]" name="getAllImages" duration-ms="12043" started-at="2018-12-27T18:56:39Z" finished-at="2018-12-27T18:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllImages -->
+        <test-method status="PASS" signature="Malaysia()[pri:2, instance:com.instarem.base.App@c8afef]" name="Malaysia" duration-ms="46088" started-at="2018-12-27T18:56:51Z" finished-at="2018-12-27T18:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Malaysia -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.instarem.base.App@c8afef]" name="end" is-config="true" duration-ms="1162" started-at="2018-12-27T18:57:37Z" finished-at="2018-12-27T18:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.instarem.base.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
